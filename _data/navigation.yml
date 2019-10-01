@@ -1,5 +1,23 @@
 # main links links
 main:
+  - title: "Resume"
+    url: /resume/
+  
+  - title: "Experience"
+    url: /work/
+
+  - title: "Career Goals"
+   url: /goals/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Senior Design"
+    url: /sd/
+
+  - title: "Reflections"
+    url: /reflections/
+
   - title: "Publications"
     url: /publications/
 
@@ -9,14 +27,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Guide"
+  #   url: /markdown/
