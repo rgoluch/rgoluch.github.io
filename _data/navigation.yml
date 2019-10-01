@@ -1,13 +1,13 @@
 # main links links
 main:
-#   - title: "Resume"
-#     url: /resume/
+  - title: "Resume"
+    url: /resume/
   
   - title: "Experience"
     url: /work/
 
   - title: "Career Goals"
-   url: /goals/
+    url: /goals/
 
   - title: "Projects"
     url: /projects/
