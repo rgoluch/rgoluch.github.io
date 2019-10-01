@@ -36,15 +36,19 @@ Work experience
   * May 2017 - August 2017
   * Part Time Research Assistant to Dr. Heike Hofmann, Department of Statistics
 
+* First Year Honors Program Leader- Ames, IA
+  * February 2017 - December 2017
+  * Created lessons for twice a week for Fall 2017 semester and leading a seminar of 10 Freshman Honors students
 
-Skills
+
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C
+* Java
+* Python
+* PowerShell
+* MySQL/SQL
+* Spring Boot/STS
 
 Publications
 ======

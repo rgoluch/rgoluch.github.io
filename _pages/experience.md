@@ -24,3 +24,4 @@ Worked on the planning and teaching of SE 185: Problem Solving in Software Engin
 
 Undergraduate Research Assistant
 =====
+Recipient of a $1,000 research grant from the Iowa State University Honors Program to continue research from First Year Honors Mentor Program. Focused on cognitive aspects of data visualization that impact the ability to accurately interpret statistical graphics.
