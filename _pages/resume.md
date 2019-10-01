@@ -19,13 +19,24 @@ Work experience
 * United States Federal Governmment- Washington, D.C.
   * May 2019 - August 2019
   * Full Time Intern with the United States Federal Government (USG)
-  * Worked primarily on the development of Windows desktop applications for data processing and file management
 
 * Software Engineering Student Ambassador- Ames, IA
   * January 2019 - Present
   * Part Time Student Ambassador for the Software Engineering Program at Iowa State University
-  * Worked with the advisors for the Software Engineering Program to meet with prospective high school students and their families during campus visits or any other outreach opportunities to discuss the program and offer a student perspective
+
+* Undergraduate Teaching Assistant- Ames, IA
+  * August 2017 - Present
+  * TA within the Department of Electrical and Computer Engineering
+  * Part Time Undergraduate TA to:
+    * Dr. Mohamed Selim (Fall 2019, Fall 2018) 
+    * Dr. Goce Trajcevski (Spring 2019, Spring 2018)
+    * Dr. Lotfi Ben-Othmane (Fall 2017)
   
+* Undergraduate Research Assistant- Ames, IA
+  * May 2017 - August 2017
+  * Part Time Research Assistant to Dr. Heike Hofmann, Department of Statistics
+
+
 Skills
 ======
 * Skill 1
