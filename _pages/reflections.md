@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Relevant Course/Lab Projects
+Relevant Course Projects
 ======
 
 
